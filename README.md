@@ -4,7 +4,7 @@ Mi proyecto consiste en una aplicación interactiva de **Lista de Tareas Pendien
 
 ---
 
-## 📋 Explicación del Proyecto (Lista de Tareas Pendientes)
+##  Explicación del Proyecto (Lista de Tareas Pendientes).
 
 ### 1. El Encabezado (Componente Funcional Simple)
 
@@ -22,7 +22,7 @@ Es un componente estático. Su única función es pintar el título principal en
 
 Usa estilos en línea (`style={{...}}`) configurados en formato de objetos de JavaScript.
 
-### 2. Información del Estudiante (Componente con Props)
+### 2.(Componente con Props).
 
 ```jsx
 function InfoUsuario(props) {
@@ -79,7 +79,7 @@ React no sabe pintar arreglos directamente en forma de lista HTML. Por eso usamo
 
 ---
 
-## Cuestionario de Teoría
+# Curstionario.
 
 ### a) ¿Qué diferencia hay entre props y state en React?
 
