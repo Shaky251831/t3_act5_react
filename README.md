@@ -79,7 +79,7 @@ React no sabe pintar arreglos directamente en forma de lista HTML. Por eso usamo
 
 ---
 
-# Curstionario.
+# Cuestionario.
 
 ### a) ¿Qué diferencia hay entre props y state en React?
 
